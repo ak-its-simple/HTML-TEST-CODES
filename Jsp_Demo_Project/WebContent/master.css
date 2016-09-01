@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+body{
+    background-color: #525252;
+    font-family:Helvetica , sans-serif;
+}
+.allContent{
+	margin-top: 60px;
+}
+.sampleCode{
+	
+}
+.myTable{
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 8px;
+	padding:"25%";
+	margin-left:"50%";
+	text-align: left;
+    width:50% ;
+}
+
+td {
+    padding: 5px;
+    
+    text-align: left;
+    width:50% ;
+}
+.textField {
+
+   -moz-border-radius: 3px;
+	border-radius: 3px;
+    border:solid 1px #A9A9A9; 
+    padding:5px;
+
+}
+#explain{
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+    border:solid 1px #A9A9A9; 
+    padding:5px
+}
+.myErrors {
+  color:red;
+ }
+ 
