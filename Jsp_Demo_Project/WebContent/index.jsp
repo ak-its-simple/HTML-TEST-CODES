@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Demo JSP page</title>
+<title>Registration</title>
 <link rel="stylesheet" type="text/css" href="master.css"></link>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="style.css">
+
 <script type="text/javascript"
 	src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
 </script>
@@ -119,7 +120,9 @@
         			&nbsp;
        		</td>
        		<td>
-       			 <input id="submitForm" type="submit" value="Submit Form" />
+       			 	
+					
+       			 	<input class= "minimal" id="submitForm" type="submit" value="Submit" /> 
       		 </td>
       		</tr>
       		
